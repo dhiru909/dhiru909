@@ -2,14 +2,13 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello there! My name is [Your Name], and I am an Android developer with a strong background in data structures and algorithms. I have experience working with various programming languages, including C/C++, Java, Kotlin, Python, and PHP. I am passionate about creating high-quality mobile applications that provide a seamless user experience.
+Hello there! My name is [Dhiraj Kumar], and I am an Android developer with a strong background in data structures and algorithms. I have experience working with various programming languages, including C/C++, Java, Kotlin, Python, and PHP. I am passionate about creating high-quality mobile applications that provide a seamless user experience.
 
 ## Projects
 Here are some of my notable projects that showcase my skills and expertise:
 
 
-- [Project 1](https://github.com/dhiru909/WeatherApp): This is a social media platform that allows users to share their travel experiences. It includes features such as photo sharing, location tagging, and user authentication.
-
+- [Project 1](https://github.com/dhiru909/WeatherApp): This is a weather app that allows users to get their weather details.
 
 ## Skills
 Here are some of my key skills that make me a valuable asset to any development team:
